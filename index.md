@@ -5,4 +5,8 @@
 ##### H5
 ###### H6
 
-Activity: Edit your file with headers
+Activity1: Edit your file with headers
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Activity2: Adding an image
